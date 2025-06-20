@@ -2,6 +2,18 @@
 
 SpeakEase is a modern, web-based application designed to help users assess their mental health using the clinically validated PHQ-9 and GAD-7 questionnaires. Leveraging Google's Gemini AI, SpeakEase delivers personalized recommendations and interactive insights, all within a secure and user-friendly interface.
 
+## Technology Stack
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-Enabled-yellow?logo=google&logoColor=white)](https://ai.google/discover/generativeai/)
+[![python-dotenv](https://img.shields.io/badge/dotenv-.env-green?logo=python&logoColor=white)](https://github.com/theskumar/python-dotenv)
+[![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![requirements.txt](https://img.shields.io/badge/Requirements-Txt-important?logo=python&logoColor=white)](requirements.txt)
+[![.env](https://img.shields.io/badge/.env-Config-critical?logo=python&logoColor=white)](.env.example)
+[![.gitignore](https://img.shields.io/badge/.gitignore-Git-orange?logo=git&logoColor=white)](https://git-scm.com/docs/gitignore)
+
 ---
 
 ## Table of Contents
