@@ -2,8 +2,6 @@
 
 SpeakEase is a modern, web-based application designed to help users assess their mental health using the clinically validated PHQ-9 and GAD-7 questionnaires. Leveraging Google's Gemini AI, SpeakEase delivers personalized recommendations and interactive insights, all within a secure and user-friendly interface.
 
-## Technology Stack
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-Enabled-yellow?logo=google&logoColor=white)](https://ai.google/discover/generativeai/)
 [![python-dotenv](https://img.shields.io/badge/dotenv-.env-green?logo=python&logoColor=white)](https://github.com/theskumar/python-dotenv)
