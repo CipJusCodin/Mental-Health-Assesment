@@ -109,3 +109,10 @@ If you encounter issues:
 - Never share your `.env` file or API key
 - The `.env` file should be added to `.gitignore` if using version control
 - This is a local application - be cautious if deploying to production
+
+![WhatsApp Image 2025-06-20 at 2 56 17 PM](https://github.com/user-attachments/assets/68168b3e-e650-4083-b4c0-e5d6f71523d1)
+![WhatsApp Image 2025-06-20 at 2 56 17 PM (1)](https://github.com/user-attachments/assets/d146188f-8e17-48ea-91c4-ce97b897e9fe)
+![WhatsApp Image 2025-06-20 at 2 56 17 PM (2)](https://github.com/user-attachments/assets/4aecc76c-0e21-4a02-a2a2-e94ef70e701e)
+![WhatsApp Image 2025-06-20 at 2 56 18 PM](https://github.com/user-attachments/assets/70ba1d62-bbb1-4177-9eeb-ced25c336847)
+![WhatsApp Image 2025-06-20 at 2 56 16 PM](https://github.com/user-attachments/assets/eb4c6afb-35ab-4cfe-8e5c-0bacb9d98b06)
+
