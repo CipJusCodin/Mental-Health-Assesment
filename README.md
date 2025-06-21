@@ -157,11 +157,12 @@ pip install -r requirements.txt
 
 ## Screenshots
 
+![Chat Feature](https://github.com/user-attachments/assets/eb4c6afb-35ab-4cfe-8e5c-0bacb9d98b06)
 ![Landing Page](https://github.com/user-attachments/assets/68168b3e-e650-4083-b4c0-e5d6f71523d1)
 ![Assessment Submission](https://github.com/user-attachments/assets/d146188f-8e17-48ea-91c4-ce97b897e9fe)
 ![Results Dashboard](https://github.com/user-attachments/assets/4aecc76c-0e21-4a02-a2a2-e94ef70e701e)
 ![Personalized Recommendations](https://github.com/user-attachments/assets/70ba1d62-bbb1-4177-9eeb-ced25c336847)
-![Chat Feature](https://github.com/user-attachments/assets/eb4c6afb-35ab-4cfe-8e5c-0bacb9d98b06)
+
 
 ---
 
